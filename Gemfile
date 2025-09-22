@@ -29,17 +29,17 @@ gem "kamal", require: false
 # Add HTTP asset caching/compression and X-Sendfile acceleration to Puma [https://github.com/basecamp/thruster/]
 gem "thruster", require: false
 
-#for http requests
-gem 'httparty'
+# for http requests
+gem "httparty"
 
-#for parsing html
-gem 'nokogiri'
+# for parsing html
+gem "nokogiri"
 
-#background worker
-gem 'sidekiq'
+# background worker
+gem "sidekiq"
 
-#schedule jobs (meh) - cronjobs
-gem 'sidekiq-cron'
+# schedule jobs (meh) - cronjobs
+gem "sidekiq-cron"
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
