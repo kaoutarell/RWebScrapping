@@ -65,3 +65,8 @@ scraper = ArticleScraper.new("https://example.com/")
 puts scraper.scrape_for("the_word")
 
 ```
+<img width="1140" height="60" alt="image" src="https://github.com/user-attachments/assets/7b1f8df5-055e-40a9-b407-3635cd53b46b" />
+
+
+<hr/>
+<div align="center"> Made with 💜 by the butterfly dev for learning purposes </div>
